@@ -155,11 +155,3 @@ body {
 .clearfix {
     display: inline-block;
 }
-
-html[xmlns] .clearfix {
-    display: block;
-}
-
-* html .clearfix {
-    height: 1%;
-}
